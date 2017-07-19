@@ -8,6 +8,7 @@ FPGA BOARD based on ZX-UNO project.
 ZX GO + is a FPGA board with the form factor adapted to fit into an original Spectrum 48k or Spectrum + case.
 
 Connections.
+<a href='https://postimg.org/image/qznub53sf/' target='_blank'><img src='https://s19.postimg.org/be6ir6rub/conections.jpg' border='0' alt='conections'/></a>
 
 For more information, contact with manuferhi@gmail.com
 
