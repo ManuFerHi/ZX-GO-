@@ -1,0 +1,8 @@
+1.- Connect USB Blaster to GO+ JTAG port.
+2.- Download file USB_BLASTER_recovery.rar, decompressed and install drivers manually.
+3.- Select path in cmd and write "jtag"
+4.- Write "cable usbblaster"
+5.- Write "detect"
+6.- Write "pld load recovery.bit"
+
+Your GO+ show a bios menu, insert a SD with FLASH.ZX1 file and select update flash form SD.
