@@ -16,6 +16,8 @@ FAQ by UTO
 Spanish - http://www.ngpaws.com/zxunogomasfaq.html
 English - http://www.ngpaws.com/zxunogoplus_faq.html
 
+Spanish manual by JSJ - https://github.com/jsanjose/ZXGO-Manual
+
 For more information, contact with manuferhi@gmail.com
 
 Based on ZX-UNO project by Superfo, Mcleod, Quest, AVillena and Hark0.
