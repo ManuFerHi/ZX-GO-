@@ -10,7 +10,7 @@ ZX GO + is a FPGA board with the form factor adapted to fit into an original Spe
 Connections.
 <a href='https://postimg.org/image/qznub53sf/' target='_blank'><img src='https://i.postimg.cc/vZsFhKXt/conections.jpg' border='0' alt='conections'/></a>
 
-<a href='https://postimg.org/image/73vckg0a7/' target='_blank'><img src='http://uto.speccy.org/img/uto.png border='0' alt='IMG_20170526_212741_1'/></a>
+
 FAQ by UTO
 
 Spanish - http://www.ngpaws.com/zxunogomasfaq.html
