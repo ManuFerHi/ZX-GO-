@@ -18,6 +18,8 @@ English - http://www.ngpaws.com/zxunogoplus_faq.html
 
 Spanish manual by JSJ - https://github.com/jsanjose/ZXGO-Manual
 
+For purchase ZX GO+ - https://manuferhi.com/c/zx-go
+
 For more information, contact with manuferhi@gmail.com
 
 Based on ZX-UNO project by Superfo, Mcleod, Quest, AVillena and Hark0.
